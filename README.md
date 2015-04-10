@@ -5,5 +5,6 @@ This is a simple example repository that will be used to show how to get started
 
 How to Contribute
 =================
+Telling people how to contribute:
 
 Just fork the original repo at pragmaticlearning/github-example, make your changes and send over a Pull Request.
